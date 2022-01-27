@@ -16,7 +16,7 @@
     "react-three-gui": "^0.1.5",
     "react-use-gesture": "^7.0.4",
     "styled-components": "^5.0.1",
-    "three": "^0.113.2",
+    "three": "^0.137.0",
     "threejs-meshline": "^2.0.9",
     "zustand": "^2.2.2"
   },
